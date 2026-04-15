@@ -74,7 +74,7 @@ The system performs sorting based on directional control:
 ---
 
 ## 🎥 Demo Video
-👉 [Watch the system in action](PUT_YOUR_VIDEO_LINK_HERE)
+👉 [Watch the system in action](video.mp4)
 
 ---
 
