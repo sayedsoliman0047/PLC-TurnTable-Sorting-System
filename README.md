@@ -1,5 +1,5 @@
 # PLC-TurnTable-Sorting-System
-# High-Speed Automated Sorting System using Turn Table (TIA Portal & Factory I/O)
+# Automated Sorting System using Turn Table (TIA Portal & Factory I/O)
 
 ## 📌 Project Overview
 This project demonstrates an industrial sorting system based on a **Turn Table diverter mechanism**.
