@@ -60,7 +60,7 @@ The system performs sorting based on directional control:
 ## 📸 Project Preview
 
 ### 🔹 Driver Configuration
-![Driver Setup](0.jpg)
+![Driver Setup](0.png)
 
 ### 🔹 Ladder Logic Implementation
 ![Network 1-2](1.png)  
@@ -69,7 +69,7 @@ The system performs sorting based on directional control:
 ![Network 7-8](4.png)
 
 ### 🔹 Factory I/O Scene
-![System Layout](scene.jpg)
+![System Layout](scene.png)
 
 ---
 
