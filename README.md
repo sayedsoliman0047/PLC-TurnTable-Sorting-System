@@ -1,5 +1,4 @@
 # PLC-TurnTable-Sorting-System
-# Automated Sorting System using Turn Table (TIA Portal & Factory I/O)
 
 ## 📌 Project Overview
 This project demonstrates an industrial sorting system based on a **Turn Table diverter mechanism**.
@@ -11,7 +10,7 @@ The entire process is controlled using **Siemens PLC** and simulated in **Factor
 ---
 
 ## 🛠️ Technologies Used
-- **PLC Programming:** Siemens TIA Portal (S7-1200 / S7-1500)  
+- **PLC Programming:** Siemens TIA Portal (S7-1200)  
 - **Simulation:** Factory I/O  
 - **PLC Simulation:** Siemens S7-PLCSIM  
 - **Programming Language:** Ladder Diagram (LAD)  
@@ -92,11 +91,3 @@ The system performs sorting based on directional control:
 3. Open the scene in **Factory I/O**  
 4. Connect using `S7-PLCSIM Driver`  
 5. Press **Start** to begin operation  
-
----
-
-## 💡 Engineering Notes
-- Demonstrates real industrial **diverter mechanism (Turn Table)**  
-- Simple but effective **direction-based sorting logic**  
-- Can be extended to multi-lane sorting systems  
-- Suitable for packaging and distribution lines  
