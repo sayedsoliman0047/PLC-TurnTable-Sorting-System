@@ -1,6 +1,6 @@
 # PLC-TurnTable-Sorting-System
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates an industrial sorting system based on a **Turn Table diverter mechanism**.
 
 The system controls the direction of moving boxes on a conveyor line by dynamically switching the Turn Table position to route items either to the **left or right lanes**.
@@ -9,7 +9,7 @@ The entire process is controlled using **Siemens PLC** and simulated in **Factor
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **PLC Programming:** Siemens TIA Portal (S7-1200)  
 - **Simulation:** Factory I/O  
 - **PLC Simulation:** Siemens S7-PLCSIM  
@@ -17,7 +17,7 @@ The entire process is controlled using **Siemens PLC** and simulated in **Factor
 
 ---
 
-## ⚙️ Control Strategy (Turn Table Logic)
+##  Control Strategy (Turn Table Logic)
 
 The system performs sorting based on directional control:
 
@@ -40,7 +40,7 @@ The system performs sorting based on directional control:
 
 ---
 
-## 🧠 Control Logic Highlights
+##  Control Logic Highlights
 
 - **Directional Sorting Logic**
   - Alternates or selects routing between left and right lanes  
@@ -56,28 +56,28 @@ The system performs sorting based on directional control:
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 
-### 🔹 Driver Configuration
+###  Driver Configuration
 ![Driver Setup](0.png)
 
-### 🔹 Ladder Logic Implementation
+###  Ladder Logic Implementation
 ![Network 1-2](1.png)  
 ![Network 3-4](2.png)  
 ![Network 5-6](3.png)  
 ![Network 7-8](4.png)
 
-### 🔹 Factory I/O Scene
+###  Factory I/O Scene
 ![System Layout](scene.png)
 
 ---
 
-## 🎥 Demo Video
-👉 [Watch the system in action](video.mp4)
+##  Demo Video
+ [Watch the system in action](video.mp4)
 
 ---
 
-## 📂 Project Files Included
+##  Project Files Included
 - TIA Portal Project File  
 - Factory I/O Scene File  
 - PLC Logic Screenshots  
@@ -85,7 +85,7 @@ The system performs sorting based on directional control:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 1. Open the project in **TIA Portal**  
 2. Start **S7-PLCSIM** and download the program  
 3. Open the scene in **Factory I/O**  
